@@ -1,5 +1,9 @@
 # 3d_cylind_shear
 
+To try out the decomposition and reconstruction algorithms simply run `example1.m`.
+
+`3DBP` contains the Laplacian pyramid decomposition codes and `Util` the other utility files. `StarSize128.mat` is a 3d example volume.
+
 ## 3d Cylindrical Shearlet transform for Matlab
 
 Numerical implementation of the cylindrical shearlet decomposition and reconstruction schemes for 3-dimensional data as described in  
